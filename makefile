@@ -1,2 +1,2 @@
 main: *.cpp
-	 g++ *.cpp -o output -lopencv_core -lopencv_imgcodecs -lopencv_highgui -lopencv_imgproc
+	 g++ -std=c++11 *.cpp  -o output `pkg-config --cflags --libs opencv`
