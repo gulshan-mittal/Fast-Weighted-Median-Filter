@@ -54,6 +54,7 @@ Arguments:
 
 # Example
 
+### Example-1: Removing salt-pepper noise from image
 ```bash
 #Kernel size: 3
 #Kernel type: Unweighted
@@ -65,7 +66,7 @@ Input Image             |  Output image
 ![input image](./dataset/ComObj/lena.png)  |  ![input image](./results/ComObj/lena_out.png)
 
 
-
+### Example-1: Removing Artifacts from image using Gaussian filter
 ```bash
 #Kernel size: 10
 #Kernel type: Gaussian
