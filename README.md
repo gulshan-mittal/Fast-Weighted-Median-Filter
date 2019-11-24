@@ -4,7 +4,7 @@ Weighted median is used in many of computer vision applications for its  propert
 
 The paper contributes a new joint-histogram representation, median tracking, and a new data structure that enables fast data access. The running time is largely shortened from several minutes to less than 1 second.
 
-![img](./blockDiagram.png)
+![img](./Documents/blockDiagram.png)
 
 ### Prerequisites
 
